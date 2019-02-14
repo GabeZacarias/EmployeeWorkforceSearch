@@ -1,2 +1,2 @@
 # EmployeeWorkforceSearch
-Search an employee using their ID number
+Using binary tree with two header files to pull employees name by their ID number.
